@@ -1,6 +1,6 @@
 # Car Price Prediction in Israel
 
-This project demonstrates predictive modeling using car price data from two sources: Yad2 and Autoboom. The data was previously collected and prepared, and this repository focuses on preprocessing, modeling, and evaluating car price predictions.
+This project demonstrates predictive modeling using car price data from two sources: Yad2 and Autoboom. The data, which was collected and prepared up to June 2024, serves as the foundation for building models that predict car prices. This repository focuses on preprocessing, modeling, and evaluating car price predictions.
 
 ## Table of Contents
 
